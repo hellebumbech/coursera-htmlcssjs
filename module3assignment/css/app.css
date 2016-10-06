@@ -1,0 +1,29 @@
+@media (max-width: 767px) {
+
+	#mobile-menu {
+		background-color: grey;
+	}
+
+	#mobile-menu a {
+		color: white;
+	}
+
+	#mobile-menu hr {
+		margin: 7.5px 0;
+	}
+
+}
+
+.innerbox {
+	height: 700px;
+	background-color: #F8F8F8;
+	border: 1px solid;
+	border-color: #e7e7e7;
+	margin: 10px;
+	padding: 0 10px;
+}
+
+h1.text-center {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
